@@ -1,0 +1,916 @@
+[
+  {
+    "nct": "NCT07650916",
+    "protocol": "222794",
+    "title": "Estudio intervencional fase 3, multicéntrico, aleatorizado de combinaciones antirretrovirales frente a un comparador activo o estándar en participantes de 12 años o más con infección por VIH; evaluación principal a 11 meses",
+    "indication": "Infección por VIH",
+    "year": "2026",
+    "status": "Reclutando",
+    "areas": [
+      "Infectología"
+    ]
+  },
+  {
+    "nct": "Sin NCT público (224349)",
+    "protocol": "224349 / MMRVNS 20-006",
+    "title": "Estudio intervencional multicéntrico de vacuna combinada contra sarampión, paperas, rubéola y varicela en niños de 15 meses a 6 años, con seguimiento de aproximadamente 6 meses",
+    "indication": "Sarampión, paperas, rubéola y varicela",
+    "year": "2026",
+    "status": "En curso",
+    "areas": [
+      "Pediatría",
+      "Infectología",
+      "Vacunas"
+    ]
+  },
+  {
+    "nct": "NCT06979453",
+    "protocol": "IM011-1128",
+    "title": "Estudio intervencional fase 3, multicéntrico, aleatorizado y doble ciego de inmunomodulador dirigido frente a placebo en adolescentes de 12 a 17 años con psoriasis en placas; evaluación principal a 16 semanas",
+    "indication": "Psoriasis en placas",
+    "year": "2025",
+    "status": "Reclutando",
+    "areas": [
+      "Reumatología",
+      "Dermatología",
+      "Pediatría"
+    ]
+  },
+  {
+    "nct": "NCT06747949",
+    "protocol": "HZNP-DAZ-304",
+    "title": "Estudio intervencional fase 3, multicéntrico de inmunomodulador dirigido en adultos de 18 años o más con síndrome de Sjögren",
+    "indication": "Síndrome de Sjögren",
+    "year": "2025",
+    "status": "Reclutando",
+    "areas": [
+      "Reumatología"
+    ]
+  },
+  {
+    "nct": "NCT06684847",
+    "protocol": "ARGX-113-2306",
+    "title": "Estudio intervencional fase 3, multicéntrico, aleatorizado y cuádruple ciego de inmunomodulador dirigido frente a placebo en adultos de 18 años o más con enfermedad primaria de Sjögren",
+    "indication": "Enfermedad primaria de Sjögren",
+    "year": "2025",
+    "status": "Activo, sin reclutamiento",
+    "areas": [
+      "Reumatología"
+    ]
+  },
+  {
+    "nct": "NCT06740630",
+    "protocol": "213998 / VNS 20-002",
+    "title": "Estudio intervencional fase 3, multicéntrico, aleatorizado y doble ciego de vacuna frente a un comparador activo o estándar en participantes de 12 meses a 15 meses con varicela",
+    "indication": "Varicela",
+    "year": "2025",
+    "status": "Reclutando",
+    "areas": [
+      "Pediatría",
+      "Infectología",
+      "Vacunas"
+    ]
+  },
+  {
+    "nct": "NCT06475742",
+    "protocol": "ID-064A303",
+    "title": "Estudio intervencional fase 3, multicéntrico de inmunomodulador dirigido en participantes de 18 años a 75 años con lupus eritematoso sistémico",
+    "indication": "Lupus eritematoso sistémico",
+    "year": "2024",
+    "status": "Por invitación",
+    "areas": [
+      "Reumatología"
+    ]
+  },
+  {
+    "nct": "NCT06333808",
+    "protocol": "GS-US-621-6290",
+    "title": "Estudio intervencional fase 3, multicéntrico, aleatorizado y doble ciego de combinaciones antirretrovirales frente a placebo en adultos de 18 años o más con infección por VIH-1; evaluación principal a 48 semanas",
+    "indication": "Infección por VIH-1",
+    "year": "2024",
+    "status": "Activo, sin reclutamiento",
+    "areas": [
+      "Infectología"
+    ]
+  },
+  {
+    "nct": "NCT05979311",
+    "protocol": "219816",
+    "title": "Estudio intervencional fase 3, multicéntrico, aleatorizado de combinaciones antirretrovirales frente a un comparador activo o estándar en adultos de 18 años o más con infección por VIH; evaluación principal a 48 semanas",
+    "indication": "Infección por VIH",
+    "year": "2024",
+    "status": "Activo, sin reclutamiento",
+    "areas": [
+      "Infectología"
+    ]
+  },
+  {
+    "nct": "NCT06104124",
+    "protocol": "HZNP-DAZ-301",
+    "title": "Estudio intervencional fase 3, aleatorizado y cuádruple ciego de inmunomodulador dirigido frente a placebo en adultos de 18 años o más con síndrome de Sjögren; evaluación principal a 48 semanas",
+    "indication": "Síndrome de Sjögren",
+    "year": "2024",
+    "status": "Completado",
+    "areas": [
+      "Reumatología"
+    ]
+  },
+  {
+    "nct": "NCT05911360",
+    "protocol": "219516",
+    "title": "Estudio intervencional fase 3, multicéntrico de combinaciones antirretrovirales en adultos de 50 años o más con infección por VIH; evaluación principal a 48 semanas",
+    "indication": "Infección por VIH",
+    "year": "2023",
+    "status": "Completado",
+    "areas": [
+      "Infectología"
+    ]
+  },
+  {
+    "nct": "NCT05648500",
+    "protocol": "ID-064A301",
+    "title": "Estudio intervencional fase 3, multicéntrico, aleatorizado y cuádruple ciego de inmunomodulador dirigido frente a placebo en participantes de 18 años a 75 años con lupus eritematoso sistémico; evaluación principal a 12 meses",
+    "indication": "Lupus eritematoso sistémico",
+    "year": "2022",
+    "status": "Activo, sin reclutamiento",
+    "areas": [
+      "Reumatología"
+    ]
+  },
+  {
+    "nct": "NCT05710783",
+    "protocol": "AVX-SARS-CoV-2-VAC-005",
+    "title": "Estudio intervencional fase 2/3, aleatorizado y triple ciego de vacuna frente a un comparador activo o estándar en adultos de 18 años o más con COVID-19",
+    "indication": "COVID-19",
+    "year": "2022",
+    "status": "Completado",
+    "areas": [
+      "Infectología",
+      "Vacunas"
+    ]
+  },
+  {
+    "nct": "NCT05626751",
+    "protocol": "HZNP-HZN-825-302",
+    "title": "Estudio intervencional fase 2, multicéntrico de inmunomodulador dirigido en participantes de 18 años a 75 años con esclerosis sistémica cutánea difusa y esclerosis sistémica; evaluación principal a 52 semanas",
+    "indication": "Esclerosis sistémica cutánea difusa y esclerosis sistémica",
+    "year": "2022",
+    "status": "Terminado",
+    "areas": [
+      "Reumatología"
+    ]
+  },
+  {
+    "nct": "NCT04979806",
+    "protocol": "W-5222-301",
+    "title": "Estudio intervencional fase 3, multicéntrico, aleatorizado y triple ciego de antibiótico frente a un comparador activo o estándar en adultos de 18 años o más con infección urinaria complicada y pielonefritis aguda",
+    "indication": "Infección urinaria complicada y pielonefritis aguda",
+    "year": "2022",
+    "status": "Completado",
+    "areas": [
+      "Nefrología",
+      "Infectología"
+    ]
+  },
+  {
+    "nct": "NCT05270668",
+    "protocol": "PR-200-104 / MK-7240-007",
+    "title": "Estudio intervencional fase 2, aleatorizado y cuádruple ciego de inmunomodulador dirigido frente a placebo en adultos de 18 años o más con esclerosis sistémica cutánea difusa y enfermedad pulmonar intersticial; evaluación principal a 50 semanas",
+    "indication": "Esclerosis sistémica cutánea difusa y enfermedad pulmonar intersticial",
+    "year": "2022",
+    "status": "Activo, sin reclutamiento",
+    "areas": [
+      "Reumatología"
+    ]
+  },
+  {
+    "nct": "NCT05261139",
+    "protocol": "C4671026",
+    "title": "Estudio intervencional fase 3, multicéntrico de vacuna frente a un comparador activo o estándar en niños y adolescentes con COVID-19",
+    "indication": "COVID-19",
+    "year": "2022",
+    "status": "Reclutando",
+    "areas": [
+      "Pediatría",
+      "Infectología",
+      "Vacunas"
+    ]
+  },
+  {
+    "nct": "NCT05423327",
+    "protocol": "R0000-NASH-CES-2117",
+    "title": "Estudio intervencional fase NA de tratamiento farmacológico en participantes de 18 años a 75 años con esteatohepatitis no alcohólica",
+    "indication": "Esteatohepatitis no alcohólica",
+    "year": "2021",
+    "status": "Terminado",
+    "areas": [
+      "Gastroenterología",
+      "Infectología"
+    ]
+  },
+  {
+    "nct": "NCT04895696",
+    "protocol": "IM026-024",
+    "title": "Estudio intervencional fase 2, multicéntrico, aleatorizado y cuádruple ciego de inmunomodulador dirigido frente a placebo en participantes de 18 años a 70 años con lupus eritematoso sistémico",
+    "indication": "Lupus eritematoso sistémico",
+    "year": "2021",
+    "status": "Activo, sin reclutamiento",
+    "areas": [
+      "Reumatología"
+    ]
+  },
+  {
+    "nct": "NCT04908189",
+    "protocol": "IM011-055",
+    "title": "Estudio intervencional fase 3, multicéntrico, aleatorizado y cuádruple ciego de inmunomodulador dirigido frente a placebo en adultos de 18 años o más con artritis psoriásica; evaluación principal a 16 semanas",
+    "indication": "Artritis psoriásica",
+    "year": "2021",
+    "status": "Activo, sin reclutamiento",
+    "areas": [
+      "Reumatología"
+    ]
+  },
+  {
+    "nct": "NCT04895241",
+    "protocol": "230LE303",
+    "title": "Estudio intervencional fase 3, multicéntrico, aleatorizado y cuádruple ciego de inmunomodulador dirigido frente a placebo en adultos de 18 años o más con lupus eritematoso sistémico; evaluación principal a 52 semanas",
+    "indication": "Lupus eritematoso sistémico",
+    "year": "2021",
+    "status": "Activo, sin reclutamiento",
+    "areas": [
+      "Reumatología"
+    ]
+  },
+  {
+    "nct": "NCT04375800",
+    "protocol": "1439-066",
+    "title": "Estudio intervencional fase 2 de combinaciones antirretrovirales frente a un comparador activo o estándar en participantes de 4 semanas a 11 años con infección por VIH",
+    "indication": "Infección por VIH",
+    "year": "2021",
+    "status": "Reclutando",
+    "areas": [
+      "Pediatría",
+      "Infectología"
+    ]
+  },
+  {
+    "nct": "NCT04611802",
+    "protocol": "2019nCoV-301",
+    "title": "Estudio intervencional fase 3, aleatorizado y cuádruple ciego de vacuna frente a placebo en participantes de 12 años o más con COVID-19",
+    "indication": "COVID-19",
+    "year": "2020",
+    "status": "Completado",
+    "areas": [
+      "Infectología",
+      "Vacunas"
+    ]
+  },
+  {
+    "nct": "NCT04505722",
+    "protocol": "CR108876",
+    "title": "Estudio intervencional fase 3, aleatorizado y cuádruple ciego de vacuna frente a placebo en adultos de 18 años o más con COVID-19; evaluación principal a 6 meses",
+    "indication": "COVID-19",
+    "year": "2020",
+    "status": "Completado",
+    "areas": [
+      "Infectología",
+      "Vacunas"
+    ]
+  },
+  {
+    "nct": "NCT04431414",
+    "protocol": "CoVPN 5001",
+    "title": "Estudio observacional multicéntrico de respuesta inmune a COVID-19 en personas con infección reciente",
+    "indication": "COVID-19",
+    "year": "2020",
+    "status": "Completado",
+    "areas": [
+      "Infectología"
+    ]
+  },
+  {
+    "nct": "NCT03964415",
+    "protocol": "CR108604",
+    "title": "Estudio de fase 3, multicéntrico, aleatorizado, doble ciego y controlado con placebo de un esquema de vacunación preventiva contra el VIH-1 en adultos sanos de 18 a 60 años con riesgo de adquisición del VIH; seguimiento de hasta 24 meses",
+    "indication": "Prevención de la infección por VIH-1",
+    "year": "2019",
+    "status": "Completado",
+    "areas": [
+      "Infectología",
+      "Vacunas"
+    ]
+  },
+  {
+    "nct": "NCT03796676",
+    "protocol": "B7451036",
+    "title": "Estudio intervencional fase 3, multicéntrico, aleatorizado y cuádruple ciego de inmunomodulador dirigido frente a placebo en adolescentes de 12 a 17 años con dermatitis atópica; evaluación principal a 12 semanas",
+    "indication": "Dermatitis atópica",
+    "year": "2019",
+    "status": "Completado",
+    "areas": [
+      "Dermatología",
+      "Pediatría"
+    ]
+  },
+  {
+    "nct": "NCT03627091",
+    "protocol": "SHP647-307",
+    "title": "Estudio intervencional fase 3, aleatorizado y doble ciego de inmunomodulador dirigido frente a placebo en participantes de 16 años a 80 años con enfermedad de Crohn; evaluación principal a 52 semanas",
+    "indication": "Enfermedad de Crohn",
+    "year": "2019",
+    "status": "Terminado",
+    "areas": [
+      "Gastroenterología"
+    ]
+  },
+  {
+    "nct": "NCT03742037",
+    "protocol": "ID-064A202",
+    "title": "Estudio intervencional fase 2, multicéntrico, aleatorizado y cuádruple ciego de inmunomodulador dirigido frente a placebo en participantes de 18 años a 75 años con lupus eritematoso sistémico; evaluación principal a 6 meses",
+    "indication": "Lupus eritematoso sistémico",
+    "year": "2018",
+    "status": "Completado",
+    "areas": [
+      "Reumatología"
+    ]
+  },
+  {
+    "nct": "NCT03398135",
+    "protocol": "M16-066",
+    "title": "Estudio intervencional fase 3, multicéntrico, aleatorizado y triple ciego de inmunomodulador dirigido frente a placebo en participantes de 16 años a 80 años con CUCI; evaluación principal a 52 semanas",
+    "indication": "CUCI",
+    "year": "2018",
+    "status": "Activo, sin reclutamiento",
+    "areas": [
+      "Gastroenterología"
+    ]
+  },
+  {
+    "nct": "NCT03566823",
+    "protocol": "SHP647-306",
+    "title": "Estudio intervencional fase 3, aleatorizado y doble ciego de inmunomodulador dirigido frente a placebo en participantes de 16 años a 80 años con enfermedad de Crohn; evaluación principal a 16 semanas",
+    "indication": "Enfermedad de Crohn",
+    "year": "2018",
+    "status": "Terminado",
+    "areas": [
+      "Gastroenterología"
+    ]
+  },
+  {
+    "nct": "NCT03105102",
+    "protocol": "M16-000",
+    "title": "Estudio intervencional fase 3, multicéntrico, aleatorizado y cuádruple ciego de inmunomodulador dirigido frente a placebo en participantes de 16 años a 80 años con enfermedad de Crohn; evaluación principal a 52 semanas",
+    "indication": "Enfermedad de Crohn",
+    "year": "2018",
+    "status": "Activo, sin reclutamiento",
+    "areas": [
+      "Gastroenterología"
+    ]
+  },
+  {
+    "nct": "NCT03290781",
+    "protocol": "SHP647-303",
+    "title": "Estudio intervencional fase 3, aleatorizado y doble ciego de inmunomodulador dirigido frente a placebo en participantes de 16 años a 81 años con CUCI; evaluación principal a 52 semanas",
+    "indication": "CUCI",
+    "year": "2018",
+    "status": "Completado",
+    "areas": [
+      "Gastroenterología"
+    ]
+  },
+  {
+    "nct": "NCT03422822",
+    "protocol": "B7451015",
+    "title": "Estudio intervencional fase 3, multicéntrico, aleatorizado y cuádruple ciego de inmunomodulador dirigido frente a placebo en participantes de 12 años o más con dermatitis atópica",
+    "indication": "Dermatitis atópica",
+    "year": "2018",
+    "status": "Completado",
+    "areas": [
+      "Dermatología"
+    ]
+  },
+  {
+    "nct": "NCT03398148",
+    "protocol": "M16-067",
+    "title": "Estudio intervencional fase 2/3, multicéntrico, aleatorizado y doble ciego de inmunomodulador dirigido frente a placebo en participantes de 16 años a 80 años con CUCI; evaluación principal a 12 semanas",
+    "indication": "CUCI",
+    "year": "2018",
+    "status": "Completado",
+    "areas": [
+      "Gastroenterología"
+    ]
+  },
+  {
+    "nct": "NCT03409107",
+    "protocol": "205270 / ASCEND-NHQ",
+    "title": "Estudio intervencional fase 3, multicéntrico, aleatorizado, doble ciego, controlado con placebo y de grupos paralelos durante 28 semanas, en participantes sin diálisis y sin tratamiento previo con agentes estimulantes de la eritropoyesis, con anemia asociada con enfermedad renal crónica; evaluación de eficacia, seguridad y calidad de vida",
+    "indication": "Anemia asociada con enfermedad renal crónica",
+    "year": "2018",
+    "status": "Completado",
+    "areas": [
+      "Nefrología"
+    ]
+  },
+  {
+    "nct": "NCT03283085",
+    "protocol": "SHP647-304",
+    "title": "Estudio intervencional fase 3, aleatorizado y doble ciego de inmunomodulador dirigido frente a un comparador activo o estándar en participantes de 16 años a 80 años con enfermedad de Crohn y CUCI",
+    "indication": "Enfermedad de Crohn y CUCI",
+    "year": "2018",
+    "status": "Completado",
+    "areas": [
+      "Gastroenterología"
+    ]
+  },
+  {
+    "nct": "NCT03407482",
+    "protocol": "GA30066",
+    "title": "Estudio intervencional fase 2 de inmunomodulador dirigido en participantes de 18 años a 76 años con lupus eritematoso sistémico",
+    "indication": "Lupus eritematoso sistémico",
+    "year": "2018",
+    "status": "Terminado",
+    "areas": [
+      "Reumatología"
+    ]
+  },
+  {
+    "nct": "NCT03104413",
+    "protocol": "M15-991",
+    "title": "Estudio intervencional fase 3, multicéntrico, aleatorizado y doble ciego de inmunomodulador dirigido frente a placebo en participantes de 16 años a 80 años con enfermedad de Crohn; evaluación principal a 12 semanas",
+    "indication": "Enfermedad de Crohn",
+    "year": "2017",
+    "status": "Completado",
+    "areas": [
+      "Gastroenterología"
+    ]
+  },
+  {
+    "nct": "NCT03259308",
+    "protocol": "SHP647-302",
+    "title": "Estudio intervencional fase 3, aleatorizado y doble ciego de inmunomodulador dirigido frente a placebo en participantes de 16 años a 80 años con CUCI; evaluación principal a 12 semanas",
+    "indication": "CUCI",
+    "year": "2017",
+    "status": "Terminado",
+    "areas": [
+      "Gastroenterología"
+    ]
+  },
+  {
+    "nct": "NCT03199053",
+    "protocol": "D1680C00019",
+    "title": "Estudio intervencional fase 3, multicéntrico, aleatorizado y doble ciego de tratamiento para control glucémico frente a placebo en participantes de 10 años a 18 años con diabetes mellitus tipo 2; evaluación principal a 26 semanas",
+    "indication": "Diabetes mellitus tipo 2",
+    "year": "2017",
+    "status": "Completado",
+    "areas": [
+      "Endocrinología y metabolismo",
+      "Pediatría"
+    ]
+  },
+  {
+    "nct": "NCT03161483",
+    "protocol": "CC-220-SLE-002",
+    "title": "Estudio intervencional fase 2, multicéntrico, aleatorizado y cuádruple ciego de inmunomodulador dirigido frente a placebo en adultos de 18 años o más con lupus eritematoso sistémico; evaluación principal a 24 semanas",
+    "indication": "Lupus eritematoso sistémico",
+    "year": "2017",
+    "status": "Completado",
+    "areas": [
+      "Reumatología"
+    ]
+  },
+  {
+    "nct": "NCT03105128",
+    "protocol": "M16-006",
+    "title": "Estudio intervencional fase 3, multicéntrico, aleatorizado y doble ciego de inmunomodulador dirigido frente a placebo en participantes de 16 años a 80 años con enfermedad de Crohn; evaluación principal a 12 semanas",
+    "indication": "Enfermedad de Crohn",
+    "year": "2017",
+    "status": "Completado",
+    "areas": [
+      "Gastroenterología"
+    ]
+  },
+  {
+    "nct": "NCT02908100",
+    "protocol": "GA30044",
+    "title": "Estudio intervencional fase 2, aleatorizado y doble ciego de inmunomodulador dirigido frente a placebo en participantes de 18 años a 75 años con lupus eritematoso sistémico; evaluación principal a 48 semanas",
+    "indication": "Lupus eritematoso sistémico",
+    "year": "2017",
+    "status": "Completado",
+    "areas": [
+      "Reumatología"
+    ]
+  },
+  {
+    "nct": "NCT03001219",
+    "protocol": "BP39261",
+    "title": "Estudio intervencional fase 2, multicéntrico, aleatorizado y doble ciego de inmunomodulador dirigido frente a placebo en adultos de 18 años o más con artritis reumatoide",
+    "indication": "Artritis reumatoide",
+    "year": "2016",
+    "status": "Terminado",
+    "areas": [
+      "Reumatología"
+    ]
+  },
+  {
+    "nct": "NCT02725593",
+    "protocol": "D1690C00017",
+    "title": "Estudio intervencional fase 3, multicéntrico, aleatorizado y doble ciego de tratamiento para control glucémico frente a placebo en participantes de 10 años a 24 años con Type 2 Diabetes; evaluación principal a 24 semanas",
+    "indication": "Type 2 Diabetes",
+    "year": "2016",
+    "status": "Completado",
+    "areas": [
+      "Endocrinología y metabolismo",
+      "Pediatría"
+    ]
+  },
+  {
+    "nct": "NCT02272413",
+    "protocol": "1302.5",
+    "title": "Estudio intervencional fase 3, multicéntrico, aleatorizado y doble ciego de tratamiento antineoplásico frente a un comparador activo o estándar en adultos de 18 años o más con cáncer de pulmón de células no pequeñas; evaluación principal a 6 semanas",
+    "indication": "Cáncer de pulmón de células no pequeñas",
+    "year": "2015",
+    "status": "Completado",
+    "areas": [
+      "Oncología"
+    ]
+  },
+  {
+    "nct": "NCT02137226",
+    "protocol": "1297.2",
+    "title": "Estudio intervencional fase 3, aleatorizado y doble ciego de inmunomodulador dirigido frente a un comparador activo o estándar en participantes de 18 años a 80 años con artritis reumatoide; evaluación principal a 12 semanas",
+    "indication": "Artritis reumatoide",
+    "year": "2015",
+    "status": "Completado",
+    "areas": [
+      "Reumatología"
+    ]
+  },
+  {
+    "nct": "NCT02255279",
+    "protocol": "V70_50",
+    "title": "Estudio intervencional fase 3, multicéntrico, aleatorizado y triple ciego de vacuna frente a un comparador activo o estándar en participantes de 6 meses a 71 meses con influenza",
+    "indication": "Influenza",
+    "year": "2014",
+    "status": "Completado",
+    "areas": [
+      "Pediatría",
+      "Infectología",
+      "Vacunas"
+    ]
+  },
+  {
+    "nct": "NCT02167139",
+    "protocol": "SB5-G31-RA",
+    "title": "Estudio intervencional fase 3, aleatorizado y cuádruple ciego de inmunomodulador dirigido frente a un comparador activo o estándar en participantes de 18 años a 75 años con artritis reumatoide; evaluación principal a 24 semanas",
+    "indication": "Artritis reumatoide",
+    "year": "2014",
+    "status": "Completado",
+    "areas": [
+      "Reumatología"
+    ]
+  },
+  {
+    "nct": "NCT02065791",
+    "protocol": "CREDENCE / 28431754DNE3001",
+    "title": "Estudio intervencional fase 3, multicéntrico, aleatorizado y doble ciego de tratamiento para control glucémico frente a placebo en adultos de 30 años o más con diabetes mellitus tipo 2 y nefropatía diabética",
+    "indication": "Diabetes mellitus tipo 2 y nefropatía diabética",
+    "year": "2014",
+    "status": "Completado",
+    "areas": [
+      "Nefrología",
+      "Endocrinología y metabolismo"
+    ]
+  },
+  {
+    "nct": "NCT01838044",
+    "protocol": "A0081296",
+    "title": "Estudio intervencional fase 4, aleatorizado y doble ciego de tratamiento analgésico frente a placebo en participantes de 18 años a 75 años con dolor lumbar crónico con componente neuropático; evaluación principal a 5 semanas",
+    "indication": "Dolor lumbar crónico con componente neuropático",
+    "year": "2013",
+    "status": "Terminado",
+    "areas": [
+      "Otras áreas"
+    ]
+  },
+  {
+    "nct": "NCT01856309",
+    "protocol": "CR102023",
+    "title": "Estudio intervencional fase 3, multicéntrico, aleatorizado y doble ciego de inmunomodulador dirigido frente a placebo en adultos de 18 años o más con artritis reumatoide",
+    "indication": "Artritis reumatoide",
+    "year": "2013",
+    "status": "Completado",
+    "areas": [
+      "Reumatología"
+    ]
+  },
+  {
+    "nct": "NCT01936181",
+    "protocol": "SB2-G31-RA",
+    "title": "Estudio intervencional fase 3, aleatorizado y cuádruple ciego de inmunomodulador dirigido frente a un comparador activo o estándar en participantes de 18 años a 75 años con artritis reumatoide; evaluación principal a 30 semanas",
+    "indication": "Artritis reumatoide",
+    "year": "2013",
+    "status": "Completado",
+    "areas": [
+      "Reumatología"
+    ]
+  },
+  {
+    "nct": "NCT01714713",
+    "protocol": "EVP-6124-017",
+    "title": "Estudio intervencional fase 3, multicéntrico, aleatorizado y triple ciego de tratamiento para sistema nervioso central en participantes de 18 años a 50 años con esquizofrenia y deterioro cognitivo",
+    "indication": "Esquizofrenia y deterioro cognitivo",
+    "year": "2013",
+    "status": "Completado",
+    "areas": [
+      "Otras áreas"
+    ]
+  },
+  {
+    "nct": "NCT01895309",
+    "protocol": "SB4-G31-RA",
+    "title": "Estudio intervencional fase 3, aleatorizado y cuádruple ciego de inmunomodulador dirigido frente a un comparador activo o estándar en participantes de 18 años a 75 años con artritis reumatoide; evaluación principal a 24 semanas",
+    "indication": "Artritis reumatoide",
+    "year": "2013",
+    "status": "Completado",
+    "areas": [
+      "Reumatología"
+    ]
+  },
+  {
+    "nct": "NCT01705977",
+    "protocol": "HGS1006-C1113-BASE",
+    "title": "Estudio intervencional fase 4, aleatorizado y cuádruple ciego de inmunomodulador dirigido frente a placebo en adultos de 18 años o más con lupus eritematoso sistémico; evaluación principal a 52 semanas",
+    "indication": "Lupus eritematoso sistémico",
+    "year": "2012",
+    "status": "Completado",
+    "areas": [
+      "Reumatología"
+    ]
+  },
+  {
+    "nct": "NCT01602380",
+    "protocol": "FALCON / D699BC00001",
+    "title": "Estudio intervencional fase 3, aleatorizado y cuádruple ciego de tratamiento antineoplásico frente a un comparador activo o estándar en participantes de 18 años a 130 años con cáncer de mama con receptores hormonales positivos",
+    "indication": "Cáncer de mama con receptores hormonales positivos",
+    "year": "2012",
+    "status": "Completado",
+    "areas": [
+      "Oncología"
+    ]
+  },
+  {
+    "nct": "NCT01625286",
+    "protocol": "D3610C00002",
+    "title": "Estudio intervencional fase 1/2, aleatorizado y cuádruple ciego de tratamiento antineoplásico frente a placebo en participantes de 18 años a 130 años con cáncer de mama avanzado o metastásico y ER+ve cáncer de mama avanzado o metastásico",
+    "indication": "Cáncer de mama avanzado o metastásico y ER+ve cáncer de mama avanzado o metastásico",
+    "year": "2012",
+    "status": "Completado",
+    "areas": [
+      "Oncología"
+    ]
+  },
+  {
+    "nct": "NCT01714661",
+    "protocol": "EVP-6124-015",
+    "title": "Estudio intervencional fase 3, aleatorizado y cuádruple ciego de tratamiento para sistema nervioso central frente a placebo en participantes de 18 años a 50 años con esquizofrenia y deterioro cognitivo",
+    "indication": "Esquizofrenia y deterioro cognitivo",
+    "year": "2012",
+    "status": "Completado",
+    "areas": [
+      "Otras áreas"
+    ]
+  },
+  {
+    "nct": "NCT01682512",
+    "protocol": "1301.1",
+    "title": "Estudio intervencional fase 3, aleatorizado y doble ciego de inmunomodulador dirigido frente a un comparador activo o estándar en participantes de 18 años a 80 años con artritis reumatoide; evaluación principal a 24 semanas",
+    "indication": "Artritis reumatoide",
+    "year": "2012",
+    "status": "Terminado",
+    "areas": [
+      "Reumatología"
+    ]
+  },
+  {
+    "nct": "NCT01604343",
+    "protocol": "CNTO136ARA3002 / CR100866",
+    "title": "Estudio intervencional fase 3, multicéntrico, aleatorizado y doble ciego de inmunomodulador dirigido frente a placebo en adultos de 18 años o más con artritis reumatoide; evaluación principal a 16 semanas",
+    "indication": "Artritis reumatoide",
+    "year": "2012",
+    "status": "Completado",
+    "areas": [
+      "Reumatología"
+    ]
+  },
+  {
+    "nct": "NCT01606761",
+    "protocol": "CNTO136ARA3003 / CR100864",
+    "title": "Estudio intervencional fase 3, multicéntrico, aleatorizado y doble ciego de inmunomodulador dirigido frente a placebo en adultos de 18 años o más con artritis reumatoide; evaluación principal a 16 semanas",
+    "indication": "Artritis reumatoide",
+    "year": "2012",
+    "status": "Completado",
+    "areas": [
+      "Reumatología"
+    ]
+  },
+  {
+    "nct": "NCT01499355",
+    "protocol": "211LE201",
+    "title": "Estudio intervencional fase 2, multicéntrico, aleatorizado y doble ciego de inmunomodulador dirigido frente a placebo en participantes de 18 años a 75 años con nefritis lúpica; evaluación principal a 52 semanas",
+    "indication": "Nefritis lúpica",
+    "year": "2012",
+    "status": "Terminado",
+    "areas": [
+      "Reumatología",
+      "Nefrología"
+    ]
+  },
+  {
+    "nct": "NCT01485614",
+    "protocol": "MK-0431-083",
+    "title": "Estudio intervencional fase 3, multicéntrico, aleatorizado y doble ciego de tratamiento para control glucémico frente a placebo en participantes de 10 años a 17 años con Diabetes Mellitus y Type 2 Diabetes; evaluación principal a 20 semanas",
+    "indication": "Diabetes Mellitus y Type 2 Diabetes",
+    "year": "2012",
+    "status": "Completado",
+    "areas": [
+      "Endocrinología y metabolismo",
+      "Pediatría"
+    ]
+  },
+  {
+    "nct": "NCT01488708",
+    "protocol": "H9B-MC-BCDX",
+    "title": "Estudio intervencional fase 3, multicéntrico, aleatorizado de inmunomodulador dirigido frente a placebo en adultos de 18 años o más con lupus eritematoso sistémico y Connective Tissue Disease y Autoimmune Disease",
+    "indication": "Lupus eritematoso sistémico y Connective Tissue Disease y Autoimmune Disease",
+    "year": "2012",
+    "status": "Terminado",
+    "areas": [
+      "Reumatología"
+    ]
+  },
+  {
+    "nct": "NCT01519791",
+    "protocol": "RA0055 períodos 1 y 2",
+    "title": "Estudio intervencional fase 3, multicéntrico, aleatorizado y doble ciego de inmunomodulador dirigido frente a placebo en adultos de 18 años o más con artritis reumatoide; evaluación principal a 52 semanas",
+    "indication": "Artritis reumatoide",
+    "year": "2012",
+    "status": "Completado",
+    "areas": [
+      "Reumatología"
+    ]
+  },
+  {
+    "nct": "NCT01521923",
+    "protocol": "RA0055 períodos 1 y 2",
+    "title": "Estudio intervencional fase 3, multicéntrico, aleatorizado y doble ciego de inmunomodulador dirigido frente a placebo en adultos de 18 años o más con artritis reumatoide; evaluación principal a 104 semanas",
+    "indication": "Artritis reumatoide",
+    "year": "2012",
+    "status": "Completado",
+    "areas": [
+      "Reumatología"
+    ]
+  },
+  {
+    "nct": "NCT01500278",
+    "protocol": "RA0077",
+    "title": "Estudio intervencional fase 4, multicéntrico, aleatorizado y simple ciego que compara dos inhibidores de TNF alfa, ambos con metotrexato, en adultos con artritis reumatoide moderada a grave con respuesta inadecuada a metotrexato; evaluación principal a 12 y 104 semanas",
+    "indication": "Artritis reumatoide",
+    "year": "2011",
+    "status": "Completado",
+    "areas": [
+      "Reumatología"
+    ]
+  },
+  {
+    "nct": "NCT01484496",
+    "protocol": "HGS1006-C1115",
+    "title": "Estudio intervencional fase 3, multicéntrico, aleatorizado y doble ciego de inmunomodulador dirigido frente a placebo en adultos de 18 años o más con lupus eritematoso sistémico; evaluación principal a 52 semanas",
+    "indication": "Lupus eritematoso sistémico",
+    "year": "2011",
+    "status": "Completado",
+    "areas": [
+      "Reumatología"
+    ]
+  },
+  {
+    "nct": "NCT01404585",
+    "protocol": "IM126-004",
+    "title": "Estudio intervencional fase 2, multicéntrico, aleatorizado y cuádruple ciego de inmunomodulador dirigido frente a placebo en adultos de 18 años o más con artritis reumatoide",
+    "indication": "Artritis reumatoide",
+    "year": "2011",
+    "status": "Completado",
+    "areas": [
+      "Reumatología"
+    ]
+  },
+  {
+    "nct": "NCT01331837",
+    "protocol": "WA25204",
+    "title": "Estudio intervencional fase 4, aleatorizado de inmunomodulador dirigido frente a un comparador activo o estándar en adultos de 50 años o más con artritis reumatoide",
+    "indication": "Artritis reumatoide",
+    "year": "2011",
+    "status": "Completado",
+    "areas": [
+      "Reumatología"
+    ]
+  },
+  {
+    "nct": "NCT01408576",
+    "protocol": "EMBODY 4 / SL0012",
+    "title": "Estudio intervencional fase 3, multicéntrico, aleatorizado de inmunomodulador dirigido frente a un comparador activo o estándar en adultos de 18 años o más con lupus eritematoso sistémico; evaluación principal a 96 semanas",
+    "indication": "Lupus eritematoso sistémico",
+    "year": "2011",
+    "status": "Completado",
+    "areas": [
+      "Reumatología"
+    ]
+  },
+  {
+    "nct": "NCT01308567",
+    "protocol": "XRP6258 / FIRSTANA",
+    "title": "Estudio intervencional fase 3, multicéntrico, aleatorizado de tratamiento antineoplásico frente a un comparador activo o estándar en adultos de 18 años o más con cáncer de próstata",
+    "indication": "Cáncer de próstata",
+    "year": "2011",
+    "status": "Completado",
+    "areas": [
+      "Oncología"
+    ]
+  },
+  {
+    "nct": "NCT01313676",
+    "protocol": "HZC113782",
+    "title": "Estudio intervencional fase 3, aleatorizado y cuádruple ciego de tratamiento respiratorio frente a placebo en participantes de 40 años a 80 años con enfermedad pulmonar obstructiva crónica",
+    "indication": "Enfermedad pulmonar obstructiva crónica",
+    "year": "2011",
+    "status": "Completado",
+    "areas": [
+      "Otras áreas"
+    ]
+  },
+  {
+    "nct": "NCT01205438",
+    "protocol": "H9B-MC-BCDT",
+    "title": "Estudio intervencional fase 3, multicéntrico, aleatorizado y cuádruple ciego de inmunomodulador dirigido frente a placebo en adultos de 18 años o más con lupus eritematoso sistémico y Connective Tissue Disease y Autoimmune Disease",
+    "indication": "Lupus eritematoso sistémico y Connective Tissue Disease y Autoimmune Disease",
+    "year": "2011",
+    "status": "Completado",
+    "areas": [
+      "Reumatología"
+    ]
+  },
+  {
+    "nct": "NCT01262365",
+    "protocol": "SL0009",
+    "title": "Estudio intervencional fase 3, multicéntrico, aleatorizado y cuádruple ciego de inmunomodulador dirigido frente a placebo en adultos de 18 años o más con lupus eritematoso sistémico; evaluación principal a 48 semanas",
+    "indication": "Lupus eritematoso sistémico",
+    "year": "2010",
+    "status": "Completado",
+    "areas": [
+      "Reumatología"
+    ]
+  },
+  {
+    "nct": "NCT01101035",
+    "protocol": "TMX-67_301",
+    "title": "Estudio intervencional fase 3, multicéntrico, aleatorizado y cuádruple ciego de tratamiento farmacológico frente a un comparador activo o estándar en adultos de 50 años o más con enfermedad cardiovascular",
+    "indication": "Enfermedad cardiovascular",
+    "year": "2010",
+    "status": "Completado",
+    "areas": [
+      "Otras áreas"
+    ]
+  },
+  {
+    "nct": "Sin NCT público",
+    "protocol": "TRAMA / Y02-Ak",
+    "title": "Estudio clínico con indicación no disponible en el registro público",
+    "indication": "No publicado",
+    "year": "—",
+    "status": "No publicado",
+    "areas": [
+      "Otras áreas"
+    ]
+  },
+  {
+    "nct": "Sin NCT público",
+    "protocol": "MK4031-378",
+    "title": "Estudio clínico con indicación no disponible en el registro público",
+    "indication": "No publicado",
+    "year": "—",
+    "status": "No publicado",
+    "areas": [
+      "Otras áreas"
+    ]
+  },
+  {
+    "nct": "Sin NCT público",
+    "protocol": "S101-RGL-003",
+    "title": "Estudio clínico con indicación no disponible en el registro público",
+    "indication": "No publicado",
+    "year": "—",
+    "status": "No publicado",
+    "areas": [
+      "Otras áreas"
+    ]
+  }
+]

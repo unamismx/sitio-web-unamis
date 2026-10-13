@@ -1,0 +1,5 @@
+const menuButton=document.querySelector('.menu-button');const navigation=document.querySelector('.navigation');menuButton?.addEventListener('click',()=>{const open=navigation.classList.toggle('open');menuButton.setAttribute('aria-expanded',String(open));});
+document.querySelectorAll('.navigation a').forEach(link=>link.addEventListener('click',()=>{navigation.classList.remove('open');menuButton?.setAttribute('aria-expanded','false');}));
+document.getElementById('year').textContent=new Date().getFullYear();
+const banner=document.getElementById('cookie-banner');if(!localStorage.getItem('unamis-cookie-consent'))banner.hidden=false;banner?.addEventListener('click',event=>{const choice=event.target.dataset.cookie;if(!choice)return;localStorage.setItem('unamis-cookie-consent',choice);banner.hidden=true;});
+document.getElementById('feasibility-form')?.addEventListener('submit',event=>{event.preventDefault();const form=event.currentTarget;const status=document.getElementById('form-status');if(!form.checkValidity()){form.reportValidity();return;}status.textContent='Gracias. Su solicitud fue validada; nuestro equipo dará seguimiento por correo electrónico.';});

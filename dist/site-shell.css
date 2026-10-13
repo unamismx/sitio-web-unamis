@@ -1,0 +1,214 @@
+.site-header {
+  min-height: 72px;
+  padding: .65rem clamp(1.1rem, 3.5vw, 3.5rem);
+  gap: 1.25rem;
+}
+
+.site-header .brand img { width: 180px; }
+
+.site-header .navigation {
+  flex: 1;
+  gap: .8rem;
+  flex-wrap: nowrap;
+  justify-content: flex-end;
+}
+
+.site-header .navigation a {
+  font-size: .8rem;
+  white-space: nowrap;
+}
+
+.institutional-bar {
+  background: #063b63;
+  box-shadow: inset 0 -1px 0 rgba(255,255,255,.12);
+}
+
+.institutional-bar-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: .72rem clamp(1.1rem, 5.5vw, 6.4rem);
+}
+
+.institutional-bar p {
+  flex: 0 0 auto;
+  margin: 0;
+  color: #9fdaea;
+  font-size: .72rem;
+  font-weight: 700;
+  letter-spacing: .09em;
+  text-transform: uppercase;
+}
+
+.institutional-bar p span { color: #4d90ae; padding: 0 .25rem; }
+.institutional-bar-inner > div { display: flex; align-items: stretch; gap: .15rem; }
+
+.institutional-bar a {
+  display: inline-flex;
+  align-items: center;
+  gap: .42rem;
+  padding: .42rem .7rem;
+  border-radius: 3px;
+  color: #e7f4f8;
+  font-size: .81rem;
+  font-weight: 600;
+  text-decoration: none;
+  transition: background .18s ease, color .18s ease;
+}
+
+.institutional-bar a > span { color: #74d5e8; font-size: 1.05rem; line-height: 1; }
+.institutional-bar a:hover,
+.institutional-bar a.active { background: #0d527e; color: #fff; }
+.institutional-bar a.active { box-shadow: inset 0 -2px 0 #64d9e8; }
+
+.hero,
+.section { padding: clamp(2.2rem, 4.4vw, 4.2rem) clamp(1.1rem, 5.5vw, 6.4rem); }
+
+.hero { gap: 2.7rem; }
+.hero-panel { padding: 1.45rem; }
+
+.hero-facade {
+  position: relative;
+  isolation: isolate;
+  min-height: 590px;
+  overflow: hidden;
+  background: #083e62;
+}
+
+.hero-facade::before,
+.hero-facade::after {
+  position: absolute;
+  z-index: -1;
+  content: "";
+  inset: 0;
+}
+
+.hero-facade::before {
+  background: url("assets/fachada-unamis.jpg") center 52% / cover no-repeat;
+}
+
+.hero-facade::after {
+  background: linear-gradient(90deg, rgba(5, 43, 70, .91) 0%, rgba(5, 43, 70, .76) 43%, rgba(5, 43, 70, .35) 78%, rgba(5, 43, 70, .24) 100%);
+}
+
+.hero-facade h1,
+.hero-facade .lead { color: #fff; }
+.hero-facade .eyebrow { color: #a8e7ef; }
+.hero-facade .lead { max-width: 40rem; }
+.hero-facade .button-secondary { border-color: rgba(255,255,255,.85); background: rgba(255,255,255,.92); }
+.hero-facade .hero-panel { background: rgba(5, 55, 91, .92); border: 1px solid rgba(171,229,238,.42); box-shadow: 0 16px 36px rgba(0,0,0,.2); }
+
+.split-section,
+.participant-section,
+.form-section,
+.contact-section { gap: 2.4rem; }
+
+.site-ambience {
+  height: clamp(190px, 25vw, 340px);
+  background: linear-gradient(90deg, rgba(6, 61, 99, .57), rgba(6, 61, 99, .15) 48%, rgba(6, 61, 99, .62)), url("assets/sala-coordinacion-unamis.jpg") center 48% / cover no-repeat;
+}
+
+.experience-hero {
+  padding-top: clamp(2.6rem, 4.5vw, 4.25rem);
+  padding-bottom: clamp(2.7rem, 4.6vw, 4.4rem);
+}
+
+h1 {
+  font-size: clamp(2.1rem, 3.35vw, 3.35rem);
+  line-height: 1.08;
+  letter-spacing: -.03em;
+}
+
+h2 { font-size: clamp(1.6rem, 2.25vw, 2.35rem); }
+
+.lead {
+  font-size: 1.02rem;
+  line-height: 1.55;
+}
+
+.cards {
+  margin-top: 1.35rem;
+  gap: .9rem;
+}
+
+.card { padding: 1.25rem; }
+.card-mark {
+  display: grid;
+  width: 2.25rem;
+  height: 2.25rem;
+  margin-bottom: .95rem;
+  place-items: center;
+  border-radius: 50%;
+  background: #e2f5f8;
+  color: #0b6d93;
+  font-size: 1.22rem;
+  font-weight: 700;
+}
+.capability-grid { gap: .75rem; }
+.capability-grid div { padding: .9rem; }
+.surface .cards + .capability-grid { margin-top: .9rem; }
+
+footer {
+  padding: 2.5rem clamp(1.1rem, 5.5vw, 6.4rem);
+  background: #073d63;
+  color: #d9edf0;
+}
+
+.footer-grid {
+  display: grid;
+  grid-template-columns: 1.35fr 1.15fr 1fr .8fr;
+  gap: 1.7rem;
+  max-width: 1440px;
+  margin: auto;
+}
+
+.footer-grid img {
+  width: 185px;
+  margin-bottom: .55rem;
+  filter: brightness(0) invert(1);
+}
+
+.footer-grid h2 {
+  margin: 0 0 .55rem;
+  color: #8ce1e8;
+  font-family: "DM Sans", Arial, sans-serif;
+  font-size: .78rem;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+}
+
+.footer-grid p {
+  margin: .14rem 0;
+  font-size: .85rem;
+  line-height: 1.5;
+}
+
+.footer-grid a { color: #fff; text-decoration: none; }
+.footer-grid a:hover { color: #8ce1e8; }
+
+.footer-name { color: #fff; font-size: .92rem; font-weight: 700; }
+
+@media (max-width: 1050px) {
+  .site-header .navigation { gap: .6rem; }
+  .site-header .navigation a { font-size: .76rem; }
+  .footer-grid { grid-template-columns: repeat(2, 1fr); }
+}
+
+@media (max-width: 800px) {
+  .site-header { min-height: 68px; }
+  .site-header .brand img { width: 165px; }
+  .institutional-bar-inner { display: block; padding: .55rem 1.1rem; }
+  .institutional-bar p { margin-bottom: .45rem; }
+  .institutional-bar-inner > div { overflow-x: auto; padding-bottom: .1rem; }
+  .institutional-bar a { flex: 0 0 auto; font-size: .76rem; }
+  .footer-grid { grid-template-columns: 1fr; }
+  .site-header .navigation { flex-wrap: nowrap; }
+  .site-header .navigation a { font-size: .95rem; }
+  .hero-facade { min-height: auto; }
+  .hero-facade::before { background-position: 58% center; }
+  .hero-facade::after { background: linear-gradient(180deg, rgba(5, 43, 70, .83), rgba(5, 43, 70, .76)); }
+  .site-ambience { height: 190px; }
+}

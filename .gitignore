@@ -1,0 +1,7 @@
+.DS_Store
+.localized
+
+# Servidor y archivos temporales locales
+*.log
+node_modules/
+
