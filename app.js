@@ -4,7 +4,19 @@ const year=document.getElementById('year');if(year)year.textContent=new Date().g
 const banner=document.getElementById('cookie-banner');let cookieChoice=null;try{cookieChoice=localStorage.getItem('unamis-cookie-consent');}catch(error){}if(banner){if(cookieChoice)banner.remove();else banner.hidden=false;}banner?.addEventListener('click',event=>{const button=event.target.closest('[data-cookie]');if(!button)return;try{localStorage.setItem('unamis-cookie-consent',button.dataset.cookie);}catch(error){}banner.remove();});
 const feasibilityForm=document.getElementById('feasibility-form');
 if(feasibilityForm){
-  const trap=document.createElement('input'); trap.type='text'; trap.name='website'; trap.tabIndex=-1; trap.autocomplete='off'; trap.setAttribute('aria-hidden','true'); trap.style.cssText='position:absolute;left:-10000px;width:1px;height:1px;opacity:0'; feasibilityForm.appendChild(trap);
-  const human=document.createElement('label'); human.className='consent human-check'; human.innerHTML='<input required type="checkbox" name="human_check"><span>Confirmo que soy una persona y no un sistema automatizado.</span>'; feasibilityForm.insertBefore(human,feasibilityForm.querySelector('button'));
-  feasibilityForm.addEventListener('submit',event=>{event.preventDefault();const status=document.getElementById('form-status');if(trap.value){status.textContent='No fue posible validar la solicitud.';return;}if(!feasibilityForm.checkValidity()){feasibilityForm.reportValidity();return;}status.textContent='Gracias. Su solicitud fue validada; nuestro equipo dará seguimiento por correo electrónico.';});
+  const isEnglish=document.documentElement.lang.startsWith('en');
+  const status=document.getElementById('form-status');
+  const submitButton=feasibilityForm.querySelector('button[type="submit"]');
+  feasibilityForm.addEventListener('submit',event=>{
+    if(!feasibilityForm.checkValidity()){
+      event.preventDefault();
+      feasibilityForm.reportValidity();
+      if(status)status.textContent=isEnglish?'Please complete the required fields.':'Complete los campos obligatorios.';
+      return;
+    }
+    submitButton.disabled=true;
+    submitButton.setAttribute('aria-busy','true');
+    submitButton.textContent=isEnglish?'Sending…':'Enviando…';
+    if(status)status.textContent=isEnglish?'Securely sending your inquiry…':'Enviando su propuesta de forma segura…';
+  });
 }
