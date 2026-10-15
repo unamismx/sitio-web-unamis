@@ -1,6 +1,6 @@
 const menuButton=document.querySelector('.menu-button');const navigation=document.querySelector('.navigation');menuButton?.addEventListener('click',()=>{const open=navigation.classList.toggle('open');menuButton.setAttribute('aria-expanded',String(open));});
 document.querySelectorAll('.navigation a').forEach(link=>link.addEventListener('click',()=>{navigation.classList.remove('open');menuButton?.setAttribute('aria-expanded','false');}));
-document.getElementById('year').textContent=new Date().getFullYear();
+const year=document.getElementById('year');if(year)year.textContent=new Date().getFullYear();
 const banner=document.getElementById('cookie-banner');if(!localStorage.getItem('unamis-cookie-consent'))banner.hidden=false;banner?.addEventListener('click',event=>{const choice=event.target.dataset.cookie;if(!choice)return;localStorage.setItem('unamis-cookie-consent',choice);banner.hidden=true;});
 const feasibilityForm=document.getElementById('feasibility-form');
 if(feasibilityForm){
