@@ -44,6 +44,8 @@
 }
 
 .institutional-bar p span { color: #4d90ae; padding: 0 .25rem; }
+.institutional-bar p a { display: inline; padding: 0; color: inherit; font-size: inherit; font-weight: inherit; letter-spacing: inherit; text-decoration: none; }
+.institutional-bar p a:hover { color: #fff; }
 .institutional-bar-inner > div { display: flex; align-items: stretch; gap: .15rem; }
 
 .institutional-bar a {
@@ -107,8 +109,8 @@
 .contact-section { gap: 2.4rem; }
 
 .site-ambience {
-  height: clamp(190px, 25vw, 340px);
-  background: linear-gradient(90deg, rgba(6, 61, 99, .57), rgba(6, 61, 99, .15) 48%, rgba(6, 61, 99, .62)), url("assets/sala-coordinacion-unamis.jpg") center 48% / cover no-repeat;
+  height: clamp(420px, 41vw, 760px);
+  background: linear-gradient(90deg, rgba(6, 61, 99, .42), rgba(6, 61, 99, .08) 48%, rgba(6, 61, 99, .42)), url("assets/sala-coordinacion-unamis.jpg") center 68% / cover no-repeat;
 }
 
 .experience-hero {
@@ -210,5 +212,5 @@ footer {
   .hero-facade { min-height: auto; }
   .hero-facade::before { background-position: 58% center; }
   .hero-facade::after { background: linear-gradient(180deg, rgba(5, 43, 70, .83), rgba(5, 43, 70, .76)); }
-  .site-ambience { height: 190px; }
+  .site-ambience { height: auto; aspect-ratio: 3 / 2; background-position: center, center; }
 }
