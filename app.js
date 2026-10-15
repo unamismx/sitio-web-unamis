@@ -1,7 +1,7 @@
 const menuButton=document.querySelector('.menu-button');const navigation=document.querySelector('.navigation');menuButton?.addEventListener('click',()=>{const open=navigation.classList.toggle('open');menuButton.setAttribute('aria-expanded',String(open));});
 document.querySelectorAll('.navigation a').forEach(link=>link.addEventListener('click',()=>{navigation.classList.remove('open');menuButton?.setAttribute('aria-expanded','false');}));
 const year=document.getElementById('year');if(year)year.textContent=new Date().getFullYear();
-const banner=document.getElementById('cookie-banner');if(!localStorage.getItem('unamis-cookie-consent'))banner.hidden=false;banner?.addEventListener('click',event=>{const choice=event.target.dataset.cookie;if(!choice)return;localStorage.setItem('unamis-cookie-consent',choice);banner.hidden=true;});
+const banner=document.getElementById('cookie-banner');let cookieChoice=null;try{cookieChoice=localStorage.getItem('unamis-cookie-consent');}catch(error){}if(banner&&!cookieChoice)banner.hidden=false;banner?.addEventListener('click',event=>{const button=event.target.closest('[data-cookie]');if(!button)return;try{localStorage.setItem('unamis-cookie-consent',button.dataset.cookie);}catch(error){}banner.remove();});
 const feasibilityForm=document.getElementById('feasibility-form');
 if(feasibilityForm){
   const trap=document.createElement('input'); trap.type='text'; trap.name='website'; trap.tabIndex=-1; trap.autocomplete='off'; trap.setAttribute('aria-hidden','true'); trap.style.cssText='position:absolute;left:-10000px;width:1px;height:1px;opacity:0'; feasibilityForm.appendChild(trap);
